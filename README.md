@@ -2,14 +2,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=S4MUE11&show_icons=true&theme=dark"
+    height 180em srcset="https://github-readme-stats.vercel.app/api?username=S4MUE11&show_icons=true&theme=dark"
     media="(prefers-color-scheme: light)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=S4MUE11&show_icons=true"
+    height 180em srcset="https://github-readme-stats.vercel.app/api?username=S4MUE11&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=S4MUE11&show_icons=true" />
+  <img height 180em src="https://github-readme-stats.vercel.app/api?username=S4MUE11&show_icons=true" />
 </picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S4MUE11&hide_progress=true)
@@ -25,8 +25,6 @@
 </div>
 
 <a href = "mailto:diassamuelm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=dark" target="_blank"></a>
-
 <a href="https://www.linkedin.com/in/samuel-medeiros-548378236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 <a href="https://www.instagram.com/samuell.diiass/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
